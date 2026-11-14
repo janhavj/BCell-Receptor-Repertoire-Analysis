@@ -1,0 +1,5 @@
+metric,value
+initial_records,1999
+retained_records,1780
+excluded_records,219
+junction_length_mismatches,0
